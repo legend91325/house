@@ -27,7 +27,7 @@
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
         <encoding>UTF-8</encoding>
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
-        <guava.version>26.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <fastjson.version>1.2.51</fastjson.version>
         <pinyin4j.version>2.5.0</pinyin4j.version>
         <commons-lang3.version>3.8</commons-lang3.version>
